@@ -1,0 +1,5 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.sourcelink.json
