@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\refint\AboutMyEnvironment.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\ref\AboutMyEnvironment.dll

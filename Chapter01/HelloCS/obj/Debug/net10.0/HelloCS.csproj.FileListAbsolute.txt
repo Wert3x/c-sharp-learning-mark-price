@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\bin\Debug\net10.0\HelloCS.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\bin\Debug\net10.0\HelloCS.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\bin\Debug\net10.0\HelloCS.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\bin\Debug\net10.0\HelloCS.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\bin\Debug\net10.0\HelloCS.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\refint\HelloCS.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\HelloCS.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter01\HelloCS\obj\Debug\net10.0\ref\HelloCS.dll
