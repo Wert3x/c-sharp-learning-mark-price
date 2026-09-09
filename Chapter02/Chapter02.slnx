@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Information/Information.csproj" />
+  <Project Path="Storing-Numbers/Storing-Numbers.csproj" />
   <Project Path="Vocabulary/Vocabulary.csproj" />
 </Solution>

@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\bin\Debug\net10.0\Storing-Numbers.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\bin\Debug\net10.0\Storing-Numbers.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\bin\Debug\net10.0\Storing-Numbers.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\bin\Debug\net10.0\Storing-Numbers.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\bin\Debug\net10.0\Storing-Numbers.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\refint\Storing-Numbers.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\Storing-Numbers.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Numbers\obj\Debug\net10.0\ref\Storing-Numbers.dll
