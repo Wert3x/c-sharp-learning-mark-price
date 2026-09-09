@@ -3,3 +3,13 @@ D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\V
 D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.AssemblyInfo.cs
 D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.csproj.CoreCompileInputs.cache
 D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\bin\Debug\net10.0\Vocabulary.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\bin\Debug\net10.0\Vocabulary.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\bin\Debug\net10.0\Vocabulary.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\bin\Debug\net10.0\Vocabulary.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\bin\Debug\net10.0\Vocabulary.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\refint\Vocabulary.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\Vocabulary.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Vocabulary\obj\Debug\net10.0\ref\Vocabulary.dll
