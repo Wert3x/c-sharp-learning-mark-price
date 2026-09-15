@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\bin\Debug\net10.0\Storing-Booleans.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\bin\Debug\net10.0\Storing-Booleans.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\bin\Debug\net10.0\Storing-Booleans.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\bin\Debug\net10.0\Storing-Booleans.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\bin\Debug\net10.0\Storing-Booleans.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\refint\Storing-Booleans.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\Storing-Booleans.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Booleans\obj\Debug\net10.0\ref\Storing-Booleans.dll
