@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Storing-Text")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73eaefd5c6f9ef17b7f516df790de8b72f1e015e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+210e50b2f8272ac163a30942f185ef67173eb46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Storing-Text")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Storing-Text")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
