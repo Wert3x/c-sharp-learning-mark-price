@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\bin\Debug\net10.0\Storing-Any-Type-Of-Object.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\bin\Debug\net10.0\Storing-Any-Type-Of-Object.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\bin\Debug\net10.0\Storing-Any-Type-Of-Object.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\bin\Debug\net10.0\Storing-Any-Type-Of-Object.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\bin\Debug\net10.0\Storing-Any-Type-Of-Object.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\refint\Storing-Any-Type-Of-Object.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\Storing-Any-Type-Of-Object.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Any-Type-Of-Object\obj\Debug\net10.0\ref\Storing-Any-Type-Of-Object.dll
