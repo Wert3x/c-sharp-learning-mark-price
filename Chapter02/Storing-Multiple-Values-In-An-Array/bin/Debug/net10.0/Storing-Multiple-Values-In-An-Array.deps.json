@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Storing-Multiple-Values-In-An-Array/1.0.0": {
+        "runtime": {
+          "Storing-Multiple-Values-In-An-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Storing-Multiple-Values-In-An-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

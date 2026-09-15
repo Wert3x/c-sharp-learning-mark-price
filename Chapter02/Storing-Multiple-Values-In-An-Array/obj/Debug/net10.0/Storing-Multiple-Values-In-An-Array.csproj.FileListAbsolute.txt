@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\bin\Debug\net10.0\Storing-Multiple-Values-In-An-Array.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\bin\Debug\net10.0\Storing-Multiple-Values-In-An-Array.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\bin\Debug\net10.0\Storing-Multiple-Values-In-An-Array.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\bin\Debug\net10.0\Storing-Multiple-Values-In-An-Array.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\bin\Debug\net10.0\Storing-Multiple-Values-In-An-Array.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\refint\Storing-Multiple-Values-In-An-Array.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\Storing-Multiple-Values-In-An-Array.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Multiple-Values-In-An-Array\obj\Debug\net10.0\ref\Storing-Multiple-Values-In-An-Array.dll
