@@ -35,26 +35,28 @@ for (int i = 0; i < products.Length; i++)
 }
 Console.WriteLine($"{"ИТОГО",-10} | {"",10} | {"",10} | {grandTotal,12:C}");*/
 
+
 if (args.Length < 3)
 {
-    System.Console.WriteLine("Command to start: dotnet run <arg1> <op> <arg2>");
-    System.Console.WriteLine("For example: dotnet run 5 + 4");
+    System.Console.WriteLine("Error: Invalid value. The correct example: dotnet run 1 + 2");
 }
 
+
 int number1 = int.Parse(args[0]);
-string operation = args[1];
+string op = args[1];
 int number2 = int.Parse(args[2]);
 
-double result = operation switch
+
+double result = op switch
 {
     "+" => number1 + number2,
     "-" => number1 - number2,
     "*" => number1 * number2,
+    "%" when number2 != 0 => number1 % number2,
+    "%" => double.NaN,
     "/" when number2 != 0 => number1 / number2,
     "/" => double.NaN,
-    "%" => number1 % number2, 
     _ => double.NaN
-
 };
 
 if (double.IsNaN(result))
@@ -64,7 +66,7 @@ if (double.IsNaN(result))
 
 else
 {
-    System.Console.WriteLine(new string('=', 30));
-    System.Console.WriteLine($"| {number1} {operation} {number2} = {result}|");
-    System.Console.WriteLine(new string('=', 30));
+    System.Console.WriteLine(new string ('=', 30));
+    System.Console.WriteLine($"| {number1} {op} {number2} = {result} |");
+    System.Console.WriteLine(new string ('=', 30));
 }
