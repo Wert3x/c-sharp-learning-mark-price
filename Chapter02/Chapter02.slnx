@@ -6,5 +6,6 @@
   <Project Path="Storing-Multiple-Values-In-An-Array/Storing-Multiple-Values-In-An-Array.csproj" />
   <Project Path="Storing-Numbers/Storing-Numbers.csproj" />
   <Project Path="Storing-Text/Storing-Text.csproj" />
+  <Project Path="Variables/Variables.csproj" />
   <Project Path="Vocabulary/Vocabulary.csproj" />
 </Solution>
