@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\bin\Debug\net10.0\Storing-Dynamic-Types.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\bin\Debug\net10.0\Storing-Dynamic-Types.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\bin\Debug\net10.0\Storing-Dynamic-Types.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\bin\Debug\net10.0\Storing-Dynamic-Types.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\bin\Debug\net10.0\Storing-Dynamic-Types.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\refint\Storing-Dynamic-Types.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\Storing-Dynamic-Types.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Storing-Dynamic-Types\obj\Debug\net10.0\ref\Storing-Dynamic-Types.dll
