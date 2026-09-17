@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Formatting\\Formatting.csproj": {}
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Casting-converting\\Casting-Converting.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Formatting\\Formatting.csproj": {
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Casting-converting\\Casting-Converting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Formatting\\Formatting.csproj",
-        "projectName": "Formatting",
-        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Formatting\\Formatting.csproj",
+        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Casting-converting\\Casting-Converting.csproj",
+        "projectName": "Casting-Converting",
+        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Casting-converting\\Casting-Converting.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Formatting\\obj\\",
+        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Casting-converting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

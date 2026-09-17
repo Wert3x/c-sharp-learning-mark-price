@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\bin\Debug\net10.0\Casting-Converting.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\bin\Debug\net10.0\Casting-Converting.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\bin\Debug\net10.0\Casting-Converting.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\bin\Debug\net10.0\Casting-Converting.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\bin\Debug\net10.0\Casting-Converting.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\refint\Casting-Converting.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\Casting-Converting.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02\Casting-converting\obj\Debug\net10.0\ref\Casting-Converting.dll
