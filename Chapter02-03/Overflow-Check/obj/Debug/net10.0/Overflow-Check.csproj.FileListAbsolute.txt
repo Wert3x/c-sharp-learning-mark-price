@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\bin\Debug\net10.0\Overflow-Check.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\bin\Debug\net10.0\Overflow-Check.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\bin\Debug\net10.0\Overflow-Check.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\bin\Debug\net10.0\Overflow-Check.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\bin\Debug\net10.0\Overflow-Check.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\refint\Overflow-Check.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\Overflow-Check.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\overflow-check\obj\Debug\net10.0\ref\Overflow-Check.dll
