@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Any-Type-Of-Object\\Storing-Any-Type-Of-Object.csproj",
+      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Any-Type-Of-Object\\Storing-Any-Type-Of-Object.csproj",
       "projectName": "Storing-Any-Type-Of-Object",
-      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Any-Type-Of-Object\\Storing-Any-Type-Of-Object.csproj",
+      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Any-Type-Of-Object\\Storing-Any-Type-Of-Object.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Any-Type-Of-Object\\obj\\",
+      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Any-Type-Of-Object\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

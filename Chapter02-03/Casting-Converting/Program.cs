@@ -49,7 +49,7 @@ if (args.Length < 3)
     return;
 }
 
-decimal value = decimal.Parse(args[0]);
+decimal.TryParse(args[0], out decimal value);
 string currencyOne = args[1].ToUpper();
 string currencyTwo = args[2].ToUpper();
 

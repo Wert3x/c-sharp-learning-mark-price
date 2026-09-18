@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\bin\Debug\net10.0\Handling-Exceptions.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\bin\Debug\net10.0\Handling-Exceptions.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\bin\Debug\net10.0\Handling-Exceptions.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\bin\Debug\net10.0\Handling-Exceptions.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\bin\Debug\net10.0\Handling-Exceptions.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\refint\Handling-Exceptions.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\Handling-Exceptions.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\Handling-Exceptions\obj\Debug\net10.0\ref\Handling-Exceptions.dll

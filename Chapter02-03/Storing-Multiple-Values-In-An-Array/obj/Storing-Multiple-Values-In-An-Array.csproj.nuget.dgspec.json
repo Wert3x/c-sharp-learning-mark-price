@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj": {}
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj": {
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj",
+        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj",
         "projectName": "Storing-Multiple-Values-In-An-Array",
-        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj",
+        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Multiple-Values-In-An-Array\\Storing-Multiple-Values-In-An-Array.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Multiple-Values-In-An-Array\\obj\\",
+        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Multiple-Values-In-An-Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

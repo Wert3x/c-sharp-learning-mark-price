@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Booleans\\Storing-Booleans.csproj",
+      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Booleans\\Storing-Booleans.csproj",
       "projectName": "Storing-Booleans",
-      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Booleans\\Storing-Booleans.csproj",
+      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Booleans\\Storing-Booleans.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Booleans\\obj\\",
+      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Booleans\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

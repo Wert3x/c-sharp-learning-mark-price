@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Information\\Information.csproj",
+      "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Information\\Information.csproj",
       "projectName": "Information",
-      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Information\\Information.csproj",
+      "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Information\\Information.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Information\\obj\\",
+      "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Information\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

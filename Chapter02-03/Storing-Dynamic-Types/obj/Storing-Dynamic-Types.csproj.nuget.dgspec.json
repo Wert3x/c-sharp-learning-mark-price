@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj": {}
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj": {
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj",
+        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj",
         "projectName": "Storing-Dynamic-Types",
-        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj",
+        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Dynamic-Types\\Storing-Dynamic-Types.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02\\Storing-Dynamic-Types\\obj\\",
+        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Storing-Dynamic-Types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
