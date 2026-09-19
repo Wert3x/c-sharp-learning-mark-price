@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\practice02\\Practice02.csproj": {}
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Practice02\\Practice02.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\practice02\\Practice02.csproj": {
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Practice02\\Practice02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\practice02\\Practice02.csproj",
+        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Practice02\\Practice02.csproj",
         "projectName": "Practice02",
-        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\practice02\\Practice02.csproj",
+        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Practice02\\Practice02.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\practice02\\obj\\",
+        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Practice02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
