@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Overflow-Check")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbaaf9ff51ada12dfd401ae7d254bba7bbff8dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837ed4da8024044a55d3441d9fa17ad892f6dbf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Overflow-Check")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Overflow-Check")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

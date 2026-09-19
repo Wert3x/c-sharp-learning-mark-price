@@ -5,6 +5,7 @@
   <Project Path="Handling-Exceptions/Handling-Exceptions.csproj" />
   <Project Path="Information/Information.csproj" />
   <Project Path="Overflow-Check/Overflow-Check.csproj" />
+  <Project Path="Practice02/Practice02.csproj" />
   <Project Path="Storing-Any-Type-Of-Object/Storing-Any-Type-Of-Object.csproj" />
   <Project Path="Storing-Booleans/Storing-Booleans.csproj" />
   <Project Path="Storing-Dynamic-Types/Storing-Dynamic-Types.csproj" />
