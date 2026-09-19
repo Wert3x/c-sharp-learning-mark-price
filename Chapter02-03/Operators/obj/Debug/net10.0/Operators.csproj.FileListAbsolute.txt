@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\bin\Debug\net10.0\Operators.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\bin\Debug\net10.0\Operators.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\bin\Debug\net10.0\Operators.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\bin\Debug\net10.0\Operators.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\bin\Debug\net10.0\Operators.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\refint\Operators.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\Operators.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\operators\obj\Debug\net10.0\ref\Operators.dll
