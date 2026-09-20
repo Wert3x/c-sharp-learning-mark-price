@@ -1,4 +1,18 @@
-﻿var students = new[]
+﻿/*Практическое задание: «Система оценок студентов»
+Реальная задача:
+Ты — разработчик системы для университета. Нужно написать программу, которая обрабатывает оценки студентов и выводит информацию о них.
+
+Входные данные:
+У тебя есть массив студентов. Каждый студент — это массив объектов (или кортеж), содержащий:
+
+Имя (string)
+
+Оценки (int[]) — от 0 до 100
+
+Статус (string) — "active", "graduated", "expelled"*/
+
+
+var students = new[]
 {
     (Name: "Alice", Grades: new[] { 95, 88, 92 }, Status: "active"),
     (Name: "Bob", Grades: new[] { 75, 68, 72 }, Status: "active"),
@@ -22,17 +36,27 @@ foreach(var student in students)
     };
 
     System.Console.WriteLine($"Статус: {status}");
-    string grades = "";
+
+
+
+    //===================My version==============
+    /*string grades = "";
     foreach(int grade in student.Grades)
     {
         grades = student.Grades.Length > 0
             ? string.Join(", ", student.Grades)
             : "";
     }
-    System.Console.WriteLine($"Оценки: [{grades}]");
+    System.Console.WriteLine($"Оценки: [{grades}]");*/
+    //===========================================
 
-    var averageGrade = 0.0;
-    var grades1 = student.Grades switch
+    string grades = string.Join(", ", student.Grades);
+
+
+
+    //==================My version===============
+   /* var averageGrade = 0.0;
+    var averageInfo = student.Grades switch //============= Was "grades1" before "averageInfo" 
     {
         [] => "Нет оценок",
         [_] => $"Одна оценка: {averageGrade = student.Grades[0]}",
@@ -40,7 +64,29 @@ foreach(var student in students)
         [var first, var second, var third] => $"Средний балл: {averageGrade = ((first + second + third) / 3.0):F2}",
         _ => "Ошибка...",
     };
-    System.Console.WriteLine(grades1);
+    System.Console.WriteLine(averageInfo);*/
+    double averageGrade = student.Grades.Length > 0
+    ? student.Grades.Average()
+    : 0.0;
+
+    string averageInfo = student.Grades switch
+    {
+        [] => "Нет оценок",
+        [_] => $"Одна оценка: {student.Grades[0]}",
+        [var first, var second] => $"Средний балл: {(first + second) / 2.0:F2}",
+        [var first, .., var last] => $"Средний балл: {averageGrade:F2}",
+        _ => "Ошибка..."
+    };
+
+
+
+
+
+
+
+
+
+
 
     if (averageGrade >= 90)
     {
