@@ -5,6 +5,7 @@
   <Project Path="Handling-Exceptions/Handling-Exceptions.csproj" />
   <Project Path="Information/Information.csproj" />
   <Project Path="Operators/Operators.csproj" />
+  <Project Path="Order-Analytics-Practice/Order-Analytics-Practice.csproj" />
   <Project Path="Overflow-Check/Overflow-Check.csproj" />
   <Project Path="Practice02/Practice02.csproj" />
   <Project Path="Selection-Statements/Selection-Statements.csproj" />

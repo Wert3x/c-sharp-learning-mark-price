@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\bin\Debug\net10.0\Order-Analytics-Practice.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\bin\Debug\net10.0\Order-Analytics-Practice.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\bin\Debug\net10.0\Order-Analytics-Practice.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\bin\Debug\net10.0\Order-Analytics-Practice.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\bin\Debug\net10.0\Order-Analytics-Practice.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\refint\Order-Analytics-Practice.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\Order-Analytics-Practice.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\order-analytics-practice\obj\Debug\net10.0\ref\Order-Analytics-Practice.dll
