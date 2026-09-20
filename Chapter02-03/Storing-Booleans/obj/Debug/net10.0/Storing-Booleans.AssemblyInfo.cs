@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Storing-Booleans")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce7082400766574dc44fc72ff1616a335cd7cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9b4cd965b4652675b7ce30ce5da8a8e3e49293")]
 [assembly: System.Reflection.AssemblyProductAttribute("Storing-Booleans")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Storing-Booleans")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

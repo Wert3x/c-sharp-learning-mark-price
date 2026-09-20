@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\operators\\Operators.csproj": {}
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Operators\\Operators.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\operators\\Operators.csproj": {
+    "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Operators\\Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\operators\\Operators.csproj",
+        "projectUniqueName": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Operators\\Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\operators\\Operators.csproj",
+        "projectPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Operators\\Operators.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\operators\\obj\\",
+        "outputPath": "D:\\Projects\\c-sharp-learning-mark-price\\Chapter02-03\\Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

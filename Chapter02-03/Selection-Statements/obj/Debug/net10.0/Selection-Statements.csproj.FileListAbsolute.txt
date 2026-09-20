@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.AssemblyInfo.cs
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.sourcelink.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\bin\Debug\net10.0\Selection-Statements.exe
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\bin\Debug\net10.0\Selection-Statements.deps.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\bin\Debug\net10.0\Selection-Statements.runtimeconfig.json
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\bin\Debug\net10.0\Selection-Statements.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\bin\Debug\net10.0\Selection-Statements.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\refint\Selection-Statements.dll
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.pdb
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\Selection-Statements.genruntimeconfig.cache
+D:\Projects\c-sharp-learning-mark-price\Chapter02-03\selection-statements\obj\Debug\net10.0\ref\Selection-Statements.dll
